@@ -1,2 +1,2 @@
 # Recipe-Project
-# Project to show what we have learned
+Project to show what we have learned
